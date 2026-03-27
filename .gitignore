@@ -5,6 +5,4 @@ __pycache__/
 *.pyd
 *.sqlite3
 .DS_Store
-results/
 *.log
-*.csv

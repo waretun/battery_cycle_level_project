@@ -1,0 +1,5 @@
+data: battery_cycle_level_dataset_CLEAN_FINAL.csv
+train_batteries: ['B0005', 'B0006', 'B0007']
+test_batteries: ['B0018']
+output: results
+debug: False
